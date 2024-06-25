@@ -1,6 +1,7 @@
-## -I'm a C# Programming student.
-### I like working with networking and game developement
-## -I have some knowledge of java and C++ as well, but nowhere near my C# experience.
+## I'm a C# Programming student.
+### -I like working with networking and game developement
+### -I have some knowledge of java and C++ as well, but nowhere near my C# experience.
+### -Creating simple QOL applications is my current favorite.
 
 <!--
 **Quidney/Quidney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
